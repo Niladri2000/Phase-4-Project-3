@@ -1,0 +1,1 @@
+As a Full Stack Developer, you have to create a frontend for the myPortfolio application. 
